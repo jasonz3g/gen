@@ -5,9 +5,9 @@ import (
 	"regexp"
 	"strings"
 
-	"gorm.io/gen/field"
-	"gorm.io/gen/internal/generate"
-	"gorm.io/gen/internal/model"
+	"github.com/jasonz3g/gen/field"
+	"github.com/jasonz3g/gen/internal/generate"
+	"github.com/jasonz3g/gen/internal/model"
 	"gorm.io/gorm/schema"
 )
 
